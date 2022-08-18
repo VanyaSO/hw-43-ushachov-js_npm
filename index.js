@@ -1,5 +1,5 @@
 const a = 3;
-const b = 'foo';
+const b = 20;
 
 const sum = (a, b) => console.log(a + b);
 const sub = (a, b) => console.log(a - b);
